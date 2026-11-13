@@ -87,8 +87,8 @@ MARKET-COPY-LLM/
 │   ├── ui_review_round_01.png
 │   ├── ui_review_round_02.png
 │   └── ui_review_round_03.png
-├── Opera Snapshot_2026-11-12_230651_c2d7bd01ec2d28f50d.gradio.live.png
-├── Opera Snapshot_2026-11-12_230826_c2d7bd01ec2d28f50d.gradio.live.png
+├── Snapshot_2026-11-12_230651_c2d7bd01ec2d28f50d.gradio.live.png
+├── Snapshot_2026-11-12_230826_c2d7bd01ec2d28f50d.gradio.live.png
 └── README.md
 ```
 
