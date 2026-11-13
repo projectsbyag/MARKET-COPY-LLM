@@ -14,7 +14,8 @@
 
 ### 1. Copywriting Studio UI (Monochrome Editorial Interface)
 
-![Market-Copy-LLM Studio Interface](./Opera%20Snapshot_2026-11-12_230651_c2d7bd01ec2d28f50d.gradio.live.png)
+![Market-Copy-LLM Studio Interface](./Snapshot_2026-11-12_230651_c2d7bd01ec2d28f50d.gradio.live.png
+)
 
 ### 2. Multi-Round Customer Review & Reasoning Log
 
